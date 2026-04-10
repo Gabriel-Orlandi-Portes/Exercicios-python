@@ -1,51 +1,40 @@
-# Lista de Exercícios de Algoritmos e Lógica de programação - Python 🧠🐍
+# 🐍 Python - 100 Exercícios | Gustavo Guanabara
 
-Este repositório contém minhas resoluções da lista de **100 exercícios de lógica de programação** proposta pelo professor Gustavo Guanabara, do Curso em Vídeo.
+Resolução da lista de exercícios de lógica de programação
+do professor Gustavo Guanabara, do [Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-1/). 🚀
 
-## 🚀 Objetivo
+---
 
-O objetivo deste repositório é:
+![Progresso](https://img.shields.io/badge/progresso-90%2F100-brightgreen)
+![Python](https://img.shields.io/badge/Python-3-blue)
+![Colab](https://img.shields.io/badge/Google-Colab-orange)
 
-* Praticar lógica de programação
-* Desenvolver raciocínio algorítmico
-* Criar consistência nos estudos
-* Documentar minha evolução como desenvolvedor
+---
 
-## 📚 Estrutura do repositório
+## 📖 O repositório
 
-Os exercícios estão organizados da seguinte forma:
+Cada exercício tem seu próprio commit e seu próprio arquivo `.ipynb`,
+resolvido no Google Colab. A ideia é simples: constância acima de tudo. 💪
+Um exercício de cada vez, sem pular etapas.
 
-```
-📁 exercicios/
- ├── ex001.py
- ├── ex002.py
- ├── ex003.py
- └── ...
-```
+---
 
-Cada arquivo corresponde a um exercício da lista.
+## 🧠 O que os exercícios cobrem
 
+| Tema | Exemplos |
+|------|----------|
+| 📥 Dados | Entrada, saída, variáveis |
+| ➕ Matemática | Operadores, expressões |
+| 🔀 Decisão | `if`, `elif`, `else` |
+| 🔁 Repetição | `for`, `while` |
 
-## 💡 Sobre os exercícios
+---
 
-Os exercícios abordam conceitos como:
+## 👀 Como visualizar
 
-* Entrada e saída de dados
-* Operadores aritméticos
-* Estruturas condicionais
-* Laços de repetição
-* Lógica básica de programação
+Todos os arquivos são notebooks `.ipynb` — basta abrir direto no GitHub
+ou no Google Colab clicando no arquivo. Simples assim! 😄
 
-## 📈 Evolução
+---
 
-Este repositório também serve como registro da minha evolução.
-Conforme avanço, pretendo melhorar a organização e otimizar as soluções.
-
-## 🤝 Contribuições
-
-Este projeto é focado em aprendizado pessoal, mas sugestões são sempre bem-vindas!
-
-## 📌 Observações
-
-* Os exercícios podem ter mais de uma solução
-* Algumas soluções podem ser simplificadas com o tempo
+> 📌 Projeto para fins educacionais.
