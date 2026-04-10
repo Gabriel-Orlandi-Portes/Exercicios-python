@@ -5,11 +5,6 @@ do professor Gustavo Guanabara, do [Curso em Vídeo](https://www.cursoemvideo.co
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3-blue)
-![Colab](https://img.shields.io/badge/Google-Colab-orange)
-
----
-
 ## 📖 O repositório
 
 Cada exercício tem seu próprio commit e seu próprio arquivo `.ipynb`,
