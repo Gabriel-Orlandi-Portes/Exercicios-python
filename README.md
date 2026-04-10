@@ -5,7 +5,6 @@ do professor Gustavo Guanabara, do [Curso em Vídeo](https://www.cursoemvideo.co
 
 ---
 
-![Progresso](https://img.shields.io/badge/progresso-90%2F100-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3-blue)
 ![Colab](https://img.shields.io/badge/Google-Colab-orange)
 
