@@ -7,10 +7,8 @@ do professor Gustavo Guanabara, do [Curso em Vídeo](https://www.cursoemvideo.co
 
 ## 📖 O repositório
 
-Cada exercício tem seu próprio commit e seu próprio arquivo `.ipynb`,
-resolvido no Google Colab. A ideia é simples: constância acima de tudo. 💪
-Um exercício de cada vez, sem pular etapas.
-
+Lista de exercícios resolvidas em Python, com o intuito de aumentar o  raciocínio lógico, entender mais sobre estruturas básicas e aprender boas práticas de programação. Cada exercício tem seu próprio commit e seu próprio arquivo `.ipynb`,
+resolvido no Google Colab. 
 ---
 
 ## 🧠 O que os exercícios cobrem
@@ -27,7 +25,7 @@ Um exercício de cada vez, sem pular etapas.
 ## 👀 Como visualizar
 
 Todos os arquivos são notebooks `.ipynb` — basta abrir direto no GitHub
-ou no Google Colab clicando no arquivo. Simples assim! 😄
+ou no Google Colab clicando no arquivo.
 
 ---
 
