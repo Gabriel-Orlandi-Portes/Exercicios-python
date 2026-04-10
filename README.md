@@ -7,8 +7,7 @@ do professor Gustavo Guanabara, do [Curso em Vídeo](https://www.cursoemvideo.co
 
 ## 📖 O repositório
 
-Lista de exercícios resolvidas em Python, com o intuito de aumentar o  raciocínio lógico, entender mais sobre estruturas básicas e aprender boas práticas de programação. Cada exercício tem seu próprio commit e seu próprio arquivo `.ipynb`,
-resolvido no Google Colab. 
+Lista de exercícios resolvidas em Python, com o intuito de aumentar o  raciocínio lógico, entender mais sobre estruturas básicas e aprender boas práticas de programação. Cada exercício tem seu próprio commit e seu próprio arquivo `.ipynb` resolvido no Google Colab.
 ---
 
 ## 🧠 O que os exercícios cobrem
